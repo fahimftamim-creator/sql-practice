@@ -165,5 +165,5 @@ The dataset contains deliberate data-quality problems (inconsistent spellings, m
 
 ## Author
 
-**[Your Name]**
-[LinkedIn profile link] · [Email address]
+Fahim Faisal Tamim
+[https://www.linkedin.com/in/fahimfaisaltamim] · [fahimftamim@gmail.com]
